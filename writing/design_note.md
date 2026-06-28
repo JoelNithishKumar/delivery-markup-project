@@ -68,4 +68,4 @@ Manual price collection across the 100 ZIP × chain anchor-item observations. Fu
 
 ---
 
-*Repository: [link] · Author: Joel Nithish Kumar Murugan*
+*Repository: [https://github.com/JoelNithishKumar/delivery-markup-project] · Author: Joel Nithish Kumar Murugan*
